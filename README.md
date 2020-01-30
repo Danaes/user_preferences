@@ -10,4 +10,4 @@ Los objetivos de esta sección son:
 
 4. Implementar un singleton para aumentar la eficiencia del mismo.
 
-Esta sección es corta, pero es vital para cualquier aplicación que necesite guardar información en el storage nativo sin usar SQLite.
+Es vital para cualquier aplicación que necesite guardar información en el storage nativo sin usar SQLite.
